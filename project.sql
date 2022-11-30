@@ -188,6 +188,14 @@ INSERT INTO Languages VALUES('Java', 20983432);
 INSERT INTO Languages VALUES('JavaScript', 20983432);
 INSERT INTO Languages VALUES('Python', 20983432);
 
+-- Populate Sections
+INSERT INTO Sections VALUES(353, 1, 'MAK A116', '10:00 AM');
+INSERT INTO Sections VALUES(353, 2, 'MAK A118', '2:00 PM');
+INSERT INTO Sections VALUES(290, 3, 'MAK A115', '1:30 PM');
+INSERT INTO Sections VALUES(350, 2, 'MAK A215', '8:00 AM');
+INSERT INTO Sections VALUES(331, 2, 'MAK D210', '3:00 PM');
+INSERT INTO Sections VALUES(458, 1, 'MAK A118', '4:00 PM');
+INSERT INTO Sections VALUES(358, 1, 'Online', 'Async');
 
 ---- End of Populating Database ----
 
